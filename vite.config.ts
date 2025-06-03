@@ -32,7 +32,4 @@ export default defineConfig({
     }),
     // see unocss.config.ts for config
   ],
-  test: {
-    environment: 'jsdom',
-  },
 })
