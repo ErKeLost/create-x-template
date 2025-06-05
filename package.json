@@ -5,7 +5,7 @@
   "packageManager": "pnpm@10.9.0",
   "scripts": {
     "build": "vite build",
-    "dev": "vite --port",
+    "dev": "vite",
     "preview": "vite preview"
   },
   "dependencies": {
